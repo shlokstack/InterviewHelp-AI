@@ -29,6 +29,9 @@ Adjust the difficulty based on the experience level:
 - 3-5 Years: Advanced implementation and system design basics.
 - 5+ Years: Senior-level architecture, optimization, leadership, and design questions.
 
+# 👨‍💻Role
+Give a technical role for the student according to the skills they have entered.
+
 # 📘 Technical Interview Questions
 
 Generate 5 technical interview questions.
